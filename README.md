@@ -1,2 +1,2 @@
-# Watthanachai
+# Education
 Web,Image Processing
